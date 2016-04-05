@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blog Template for GitHub Pages</title>
+    <link>http://singhh.github.io/hugo_gh_blog/</link>
+    <description>Recent content on Hugo Blog Template for GitHub Pages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://singhh.github.io/hugo_gh_blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo | GitHub </title>
+      <link>http://singhh.github.io/hugo_gh_blog/posts/SetupHugo_And_GitHub/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://singhh.github.io/hugo_gh_blog/posts/SetupHugo_And_GitHub/</guid>
+      <description>
+
+&lt;h2 id=&#34;sample-post-1:7c3be5a3066ecf716ad194ab2d5afe18&#34;&gt;Sample Post 1&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;Setup Hugo Site on GitHub using MacBook Pro is the goal and I am using Spencer Lyon&#39;s Tutorial to achieve this. 
+
+This tutorial can be found on Hugo site at: https://gohugo.io/tutorials/github-pages-blog/#find-a-home-for-your-files
+
+Please take advantage of this tutorial and I wish you happy learning and exploring.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;-Harjit&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn Hugo</title>
+      <link>http://singhh.github.io/hugo_gh_blog/posts/LearnHugo/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://singhh.github.io/hugo_gh_blog/posts/LearnHugo/</guid>
+      <description>
+
+&lt;h2 id=&#34;first-heading:0bc168dfe52760a6de6a0fa187efac26&#34;&gt;First Heading&lt;/h2&gt;
+
+&lt;p&gt;Hugo&lt;/p&gt;
+
+&lt;h3 id=&#34;sub:0bc168dfe52760a6de6a0fa187efac26&#34;&gt;Sub&lt;/h3&gt;
+
+&lt;p&gt;Hugo is powerful and simple to learn.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion:0bc168dfe52760a6de6a0fa187efac26&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Easy peazzy!&lt;/p&gt;
+
+&lt;p&gt;-Harjit&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setup SSH Key with GitHub account respo</title>
+      <link>http://singhh.github.io/hugo_gh_blog/posts/SSHKey_Setup/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://singhh.github.io/hugo_gh_blog/posts/SSHKey_Setup/</guid>
+      <description>
+
+&lt;h2 id=&#34;comment:f73c626172fba419eeeff3e9d5aa6554&#34;&gt;Comment:&lt;/h2&gt;
+
+&lt;p&gt;GitHub helps with setting up SSH Key with your repo on GitHub so that you can push &amp;amp; pull from your localhost.&lt;/p&gt;
+
+&lt;h2 id=&#34;help-doc-link:f73c626172fba419eeeff3e9d5aa6554&#34;&gt;Help Doc Link:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://help.github.com/articles/generating-an-ssh-key/&#34;&gt;https://help.github.com/articles/generating-an-ssh-key/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;comment-1:f73c626172fba419eeeff3e9d5aa6554&#34;&gt;Comment:&lt;/h2&gt;
+
+&lt;p&gt;Happy learning&lt;/p&gt;
+
+&lt;h2 id=&#34;blogger:f73c626172fba419eeeff3e9d5aa6554&#34;&gt;Blogger:&lt;/h2&gt;
+
+&lt;p&gt;-Harjit&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
